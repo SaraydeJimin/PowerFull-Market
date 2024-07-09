@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #00aaff;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+.cart-details {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+.total {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.warning {
+    color: #ff0000;
+    font-style: italic;
+}
+.chat-icon {
+    float: right;
+    font-size: 1.5em;
+    color: #00aa00;
+}
